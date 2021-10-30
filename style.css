@@ -1,0 +1,28 @@
+h1 {
+    font-size: 70px;
+    margin-top: 70px;
+    color: rebeccapurple;
+
+}
+
+h4 {
+    color: white;
+}
+
+body {
+    background-image: url('w1.jpg');
+}
+
+div {
+    position: relative;
+    left: -300px;
+
+}
+
+button {
+    margin-top: 10px;
+    position: relative;
+    left: -300px;
+    background-color: darkorange;
+    color: white;
+}
